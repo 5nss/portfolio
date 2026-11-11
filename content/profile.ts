@@ -31,7 +31,7 @@ export const profile = {
   name: "Sudharsan S",
   handle: "5nss",
   role: "AI-native builder",
-  tagline: "I build real-world solutions where mechanical engineering, AI and software meet.",
+  tagline: "I build real-world solutions where AI and software and core engineering meet.",
   /** Words that cycle after "building" under your name. */
   building: ["AI agents", "backend systems", "mech × AI solutions", "things that ship"],
   location: "Coimbatore, IN",
