@@ -13,7 +13,7 @@ export const metadata: Metadata = {
     "Sudharsan S builds AI agents and backend systems. Mechanical engineering student at GCT Coimbatore, Siemens Scholar. Projects sync live from GitHub.",
   openGraph: {
     title: `${profile.name} · AI-native builder`,
-    description: "I turn specs into shipped systems, with AI agents in the loop.",
+    description: profile.tagline,
     type: "website",
   },
 };

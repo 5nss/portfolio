@@ -31,9 +31,9 @@ export const profile = {
   name: "Sudharsan S",
   handle: "5nss",
   role: "AI-native builder",
-  tagline: "I turn specs into shipped systems, with AI agents in the loop.",
+  tagline: "I build real-world solutions where mechanical engineering, AI and software meet.",
   /** Words that cycle after "building" under your name. */
-  building: ["AI agents", "backend systems", "spec-first products", "things that ship"],
+  building: ["AI agents", "backend systems", "mech × AI solutions", "things that ship"],
   location: "Coimbatore, IN",
   timeZone: "Asia/Kolkata",
   timeZoneLabel: "IST",
@@ -43,7 +43,8 @@ export const profile = {
   about: [
     "I'm Sudharsan, a mechanical engineering student at **GCT Coimbatore** and a **Siemens Scholar** who got pulled into software. I like building systems end to end: a clear spec, a working backend, and something a person can actually use.",
     "I build the AI-native way. AI coding agents do most of the typing. My job is the part that decides whether it works: scoping the problem, setting the architecture, and verifying the result before I call it done. Right now I do that as an intern at a **stealth startup**, building AI agents and backend features for the product.",
-    "Before that I interned at **The Yellow Network**, where I was chosen to represent Cohort 3, and I run alumni relations for **gSARC**. My mechanical background keeps pulling me toward problems where software meets physical systems, like predictive maintenance.",
+    "Before that I interned at **The Yellow Network**, where I was chosen to represent Cohort 3, and I run alumni relations for **gSARC**.",
+    "What sets my work apart is the mix: I build **real-world solutions** that combine **mechanical engineering, AI and software**. Knowing how a pump, a machine or a maintenance floor actually behaves changes what I build and how I test it, from fault-reporting workflows to predictive maintenance.",
   ],
 
   links: {
